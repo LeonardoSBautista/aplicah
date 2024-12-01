@@ -1,7 +1,7 @@
 {
   "store.home": {
     "blocks": [
-      "hello-world",
+      // "hello-world",
       // "list-context.image-list#demo",
       "flex-layout.row#deals",
       "__fold__",
